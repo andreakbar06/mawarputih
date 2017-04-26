@@ -1,16 +1,18 @@
-<?php
-class mahasiswa{
+<?php 
+/**
+* 
+*/
+class Mahasiswa
+{
 	public $nim;
 	public $nama;
 
-	public tambah (){
+	public tambah(){
 		return true;
 	}
+
 	public hapusMhs(){
 		return true;
 	}
-	public ubahMhs(){
-		return true;
-	}
 }
-?>
+ ?>
